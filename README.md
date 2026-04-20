@@ -1,56 +1,62 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Da Phadenphorakden
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Welcome to my GitHub profile.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<phorakden2024>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I am a Web Developer and IT Support professional who enjoys building useful websites and web applications, while also helping users solve technical problems in their daily work. I like working on practical solutions that make systems easier to use, easier to manage, and more reliable.
 
-## 🚀 About Me
+## A Little About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- I work in both web development and IT support
+- I have experience with frontend and backend development
+- I help users with troubleshooting, device setup, and network support
+- I also work with system coordination and system administration
+- I enjoy creating web apps, admin dashboards, and company websites
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+## My Skills
 
+- Frontend Development
+- Backend Development
+- Troubleshooting
+- Network Support
+- System Coordination
+- System Administration
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Tech I Work With
 
-## 🌱 Currently Exploring
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Laravel
+- Filament
+- Livewire
+- WordPress
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+## What I Usually Do
 
- ## 🏆 Achievements
+- Build websites and web applications
+- Create admin dashboards and internal business systems
+- Support users with technical issues
+- Set up computers, printers, and network devices
+- Help maintain company systems and daily operations
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+## Projects I Have Worked On
 
+- POS System
+- Company Website
+- Inventory System
 
-## 📬 Get in Touch
+## What I Am Focusing On
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+Right now, I am continuing to improve my web development skills and learning how to build systems that are clean, useful, and easy to maintain.
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+## Let's Connect
 
+- GitHub: [phorakden2024](https://github.com/phorakden2024)
+- Facebook: [prorakden](https://www.facebook.com/prorakden)
+- Telegram: [@Phorakden](https://t.me/Phorakden)
 
+## My Goal
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to keep growing as a developer, build better applications, learn more advanced technologies, and contribute to meaningful projects in the future.
